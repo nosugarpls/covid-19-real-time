@@ -12,7 +12,7 @@
 ## Learn More
 
 ► Watch the demo video on Youtube: 
-https://youtu.be/yLvAVU5pdwE
+https://www.youtube.com/watch?v=InGQldIB1sg
 
 ► Learn more about the author on Linkedin: 
 https://www.linkedin.com/in/yu-ashley-shi-328239197/
