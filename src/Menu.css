@@ -1,0 +1,28 @@
+h4 {
+  color:#03506f;
+  margin: 30px;
+  padding: 10px;
+}
+
+.menu {
+  overflow:auto;
+  height:350px;
+  padding: 10px;
+  list-style-type: none;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.choice {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.choice:active, .choice:focus, .choice:hover {
+  background-color: #d1c145;
+  cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}

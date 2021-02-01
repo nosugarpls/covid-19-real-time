@@ -1,0 +1,17 @@
+.app {
+  font-family: sans-serif;
+  background-color: #f1f1f1;
+}
+
+.top-container {
+  display: flex;
+  align-items: stretch;
+}
+
+.left-container {
+  width: 60%;
+}
+
+.right-container {
+  width: 40%;
+}
